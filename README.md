@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Shokr 👋
 
 <!--
 **Shokr/Shokr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,3 +45,7 @@ I work as a Backend Engineer Play with anything that has an IP address..
 
 </tr>
 </table>
+
+## Find me around the web 🌎:  
+- Sharing updates on <a href="https://www.linkedin.com/in/muhammedshokr/">LinkedIn</a> 💼
+
