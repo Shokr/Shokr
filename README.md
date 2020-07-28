@@ -49,3 +49,5 @@ I work as a Backend Engineer Play with anything that has an IP address..
 ## Find me around the web 🌎:  
 - Sharing updates on <a href="https://www.linkedin.com/in/muhammedshokr/">LinkedIn</a> 💼
 
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mohammedshokr2014@gmail.com)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muhammedshokr/)
